@@ -1,7 +1,7 @@
 {
 	"board": "arduino:samd:mkrwifi1010",
 	"port": "COM5",
-	"sketch": "led-blink\\led-blink.ino",
+	"sketch": "light-loop\\light-loop.ino",
 	"output": "../build"
 }
 
